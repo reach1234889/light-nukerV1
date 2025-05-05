@@ -1,6 +1,6 @@
 {
     "prefix":"--",
-    "DisableEveryone": true,
+    "DisableEveryone": false,
     "ID": "688715932247261234",
     "founder": "DEVROCK"
 }
